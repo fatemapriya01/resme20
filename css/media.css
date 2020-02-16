@@ -1,0 +1,140 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+.wrapper {
+    max-width: 100% !important;
+    height: auto;
+    margin: 0 auto;
+}
+.header_20 {
+    position: relative;
+    padding: 60px 0 15px 0;
+}
+.single_20_2 h1 {
+    font-weight: 700;
+    font-size: 51px;
+    margin-bottom: 10px;
+}
+.single_20_1 img {
+    max-width: 60%;
+    margin-bottom: 20px;
+}
+.single_20_1 img {
+    max-width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.contact_20_1 {
+    width: 155px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.contact_20 {
+    position: initial;
+    width: 100%;
+    padding: 20px 60px 10px 60px;
+}
+.contact_20 h2 {
+    width: 200px;
+    margin: auto !important;
+    margin-bottom: 25px !important;
+}
+.references_right_1 h2 {
+    width: 80%;
+}
+.references_right_2 h2 {
+    line-height: 22px;
+}
+.references_left {
+     padding-left: 0px;
+}
+.references {
+    padding: 50px 0 160px 0;
+}
+
+
+
+
+
+
+
+	
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	.wrapper {
+    max-width: 100% !important;
+    height: auto;
+    margin: 0 auto;
+}
+.header_20 {
+    position: relative;
+    padding: 60px 0 15px 0;
+}
+.single_20_1 img {
+    max-width: 50%;
+    margin-bottom: 20px;
+}
+.single_20_1 img {
+    max-width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.contact_20_1 {
+     width: 155px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.contact_20 {
+    position: initial;
+    width: 100%;
+    padding: 20px 60px 10px 60px;
+}
+.contact_20 h2 {
+    margin-bottom: 25px !important;
+    width: 50%;
+}
+.common_text_2 {
+    width: 95% !important;
+}
+.references_left {
+     padding-left: 0px;
+}
+
+.references {
+    padding: 50px 0 160px 0;
+}
+
+
+
+
+      
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+     .wrapper {
+    max-width: 100% !important;
+    height: auto;
+    margin: 0 auto;
+}
+.header_20 {
+    padding: 70px 0 170px 0;
+}
+
+
+
+       
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
+	
